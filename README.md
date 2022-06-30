@@ -9,6 +9,7 @@ The goal of this analysis is to identify whether the omission of the Thomas High
 ## Results
 - How is the district summary affected?
   - First let us look at the result of the initial district analysis:
+![Initial distric analysis results](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/district_analysis_df_initial.PNG)
   
 - How is the school summary affected?
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
