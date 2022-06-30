@@ -20,7 +20,7 @@ How is the district summary affected?
    
    
 How is the school summary affected?
-- Like above, we will look first at the analysis before removing the compromised data - spicifally at the row for THS:
+- Like above, we will look first at the initial analysis before removing the compromised data - spicifally at the row for THS:
 
 ![Initial School Summary](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/school_analysis_df_init.PNG?raw=true)
 
@@ -28,17 +28,18 @@ How is the school summary affected?
 
 ![School summary after ommission](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/school_analysis_df_post.PNG?raw=true)
 
-- Again, we see in these results that both the values for the average test scores and the percentages for passing rates have decreased after we removed the compromised test data.
- 
-  
+- In this data, we have adjusted the total number of students for THS to look only at the 10th-12th graders and their scores. Again, we see in these results that both the values for the average test scores and the percentages for passing rates have decreased after we removed the compromised test data.
+
   
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
--  
+
  
  
 How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
+![]()
   - Scores by school spending
+![]()
   - Scores by school size
   - Scores by school type
 
