@@ -56,9 +56,25 @@ Reading Scores by Grade (initial) | Reading Scores by Grade (adjusted)
 ![](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/reading_scores_grade_init.PNG?raw=true) | ![](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/reading_scores_grade_post.PNG?raw=true)
 
   - Scores by school spending
-![]()
+
+Performance Across Spending Ranges (initial)    |   Performance Across Spending Ranges (ajusted)
+:----------------------------------------------:|:-----------------------------------------------:
+![](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/spending_init.PNG?raw=true) | ![](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/spending_post.PNG?raw=true)
+
+
   - Scores by school size
+ 
+ Performance Across School Size (initial)       |      Performance Across School Size (adjusted)
+ :---------------------------------------------:|:------------------------------------------------:
+ ![](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/size_init.PNG?raw=true) | ![](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/size_post.PNG?raw=true)
+ 
+ 
   - Scores by school type
+
+
+  Perfomance Amongst School Types (initial)      |      Perfomance Amongst School Types (adjusted)
+  :---------------------------------------------:|:-----------------------------------------------:
+  ![](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/type_init.PNG?raw=true) | ![](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/type_post.PNG?raw=true)
 
 ## Summary
 - [change 1]
