@@ -75,9 +75,20 @@ Performance Across Spending Ranges (initial)    |   Performance Across Spending 
   Perfomance Amongst School Types (initial)      |      Perfomance Amongst School Types (adjusted)
   :---------------------------------------------:|:-----------------------------------------------:
   ![](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/type_init.PNG?raw=true) | ![](https://github.com/chichi-ugo/School_District_Analysis/blob/main/Resources/images/type_post.PNG?raw=true)
+  
+   - Regarding the comparison of scores by grade, we can see that the removal of the THS ninth grade scores does not have an affect on any of the other grades both within and outside of THS. The are no values for the ninth graders at THS, so we can see that the line has been replaced with the null (i.e. NaN).
+   - In all the other areas, we again do not see any significant changes in the output. After adjusting the student count to only account for THS' 10th-12th graders, we dont see much change in their Overall Passing percentage. This in turn leaves these other categores realtively unaffected. 
+    - For clarification, the highlighted areas in the images are to show the bins in which THS fell. We do not see any changes between the intial and adjusted results that would indicate that the THS students scores affects the overall analysis in this case.
 
 ## Summary
-- [change 1]
-- [change 2]
-- [change 3]
-- [change 4]
+Overall, we see a slight decrease in all of the values for THS' performance after we removed the compromised ninth grade scores. This could indicated that the compromised scores acted to artificially inflate Thomas High School's overall standing in the district. However, it is difficult to draw any conclusion regarding THS' standing as we do not have any values to give as accurate representation of the ninth grade class' ability. By taking out the scores, it would be unfair to count each students score as 0 or failing, this drops THS down significantly in standing amongst the other schools in the district (from 90% to 65% overall passing). 
+
+In the distict analysis, we see that factoring out THS ninth grade scores also has a lowering effect for the entire district - dropping the overall passing percentage from 65% to 64.9%. Again we cannot properly account for the significance as we do not have a method to accurately guage THS ninth graders true performance. That being said, it could be reasoned that with the change being so small, it could be considered nominal.
+
+We do not see a differrence in the results when comparing between the inital and adjust analysis for School Size, School Type, or Spending Range. This could mean that the THS ninth grade scores do not have a significant affect in these areas.
+
+Lastly, in comparison by grade, the biggest caveat we see is that therea are no scores for us to compare THS' ninth graders to the other schools' ninth graders. Because of this, it is difficult to guage whether they are performing well or not and the school board would be unable to make decisions for their education plan in that regaurd.
+
+Ultimately, we conclude that the THS ninth grade scores have a slight, if not nominal, effect on the overall analysis. 
+
+An interesting point to note: in looking at the comparisons based on School Size, we see that smaller schools have the the highest passing percentages. In the School types, we see that Charter schools have the higher passing percentages. And finally, we see that schools with lower spending per student have the higher passing percentages.
